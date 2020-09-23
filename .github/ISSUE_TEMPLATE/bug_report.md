@@ -13,7 +13,7 @@ assignees: ''
 <!-- A clear and concise description of what you expected to happen. -->
 
 ### Map and Credentials
-<!-- Invite ArcGISFieldMaps user to a group containing maps/layers to reproduce -->
+<!-- Invite `arcgis-fieldmaps` user to a group containing maps/layers to reproduce -->
 * Group Name:
 * Map Name:
 
